@@ -7,6 +7,6 @@ entries:
     digest: 4208ead0df281afae69108e517b3c20f200f1fc2b9750b7a015fab13518d9ceb
     name: tasy-customer
     urls:
-    - https://github.com/philips-internal/charts-platform/tasy/tasy-customer-0.2.0.tgz
+    - https://github.com/vlads-bg/charts/tasy-customer-0.2.0.tgz
     version: 0.2.0
 generated: "2024-04-22T10:40:58.328997691-03:00"
